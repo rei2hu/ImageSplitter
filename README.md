@@ -4,11 +4,11 @@ Splits an image into equal sized images which are then saved to the current dire
 
 ######Examples
 
-![baseimage](./demo/qrGs0ms.png)
+<img src="./demo/qrGs0ms.png "style="width: 400px;"/>
 
 
-![image1](./demo/1.png =100x) ![image2](./demo/2.png =100x) ![image3](./demo/3.png =100x) ![image4](./demo/4.png =100x)
+<img src="./demo/1.png "style="width: 100px;"/> <img src="./demo/2.png "style="width: 100px;"/> <img src="./demo/3.png "style="width: 100px;"/> <img src="./demo/4.png "style="width: 100px;"/>
 
-![image5](./demo/5.png =100x) ![image6](./demo/6.png =100x) ![image7](./demo/7.png =100x) ![image8](./demo/8.png =100x)
+<img src="./demo/5.png "style="width: 100px;"/> <img src="./demo/6.png "style="width: 100px;"/> <img src="./demo/7.png "style="width: 100px;"/> <img src="./demo/8.png "style="width: 100px;"/>
 
-![image9](./demo/9.png =100x) ![image10](./demo/10.png =100x) ![image11](./demo/11.png =100x) ![image12](./demo/12.png =100x)
+<img src="./demo/9.png "style="width: 100px;"/> <img src="./demo/10.png "style="width: 100px;"/> <img src="./demo/11.png "style="width: 100px;"/> <img src="./demo/12.png "style="width: 100px;"/>
