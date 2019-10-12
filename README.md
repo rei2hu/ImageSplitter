@@ -2,7 +2,7 @@
 
 Splits an image into equal sized images which are then saved to the current directory.
 
-######Examples
+###### Examples
 
 <img src="./demo/qrGs0ms.png" width="400px"/>
 
